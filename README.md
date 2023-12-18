@@ -1,6 +1,6 @@
 # Cam-Hackers
 
-Hack Cameras
+Hack Cameras/CCTV open ports
 
 <h3> Run Command: </h3>
 
@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/MTTBJ/BJ-cam-hackers
 
 * cd Cam-Hackers
 
